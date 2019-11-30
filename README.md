@@ -5,7 +5,8 @@
 * Chad(github : yolearn)
 
 ## Abstract
-Our team "relax again" won **5%** in the game [玉山人工智慧公開挑戰賽2019秋季賽真相只有一個 -『信用卡盜刷偵測](https://tbrain.trendmicro.com.tw/Competitions/Details/10).  
+Our team "relax again" won **5%** in the game 
+[玉山人工智慧公開挑戰賽2019秋季賽真相只有一個 -『信用卡盜刷偵測](https://tbrain.trendmicro.com.tw/Competitions/Details/10).  
 
 ## Rule
 一卡在手，妙用無窮！
